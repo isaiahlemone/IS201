@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(214, 206, 206);
+    padding: 5%;
+    border-color: black;
+    border-width: 5%;
+    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+h2 {
+    font-weight: bolder;
+    font-style: oblique;
+    font-style: initial;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(2, 2, 5);
+}
+
+
+a {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+img {
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+}
+
+div.heading {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10px;
+}
+div.subhead{
+    background-color: white;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 10x;
+    margin: 10px;
+}
+div{
+    font-size: large;
+}
